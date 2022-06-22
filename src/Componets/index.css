@@ -2,9 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    transition: 0.25s ease-in-out all;
 }
-
 body {
     line-height: 1.5;
     font-size: 0.875rem;
@@ -42,7 +40,6 @@ h2{
     color: red;
     border-radius: .2rem;
     cursor: pointer;
-    transition: 0.9s;
 }
 .filter-btn:hover {
     background: red;
@@ -54,14 +51,11 @@ h2{
     display: grid;
     gap: 3rem 2rem;
     justify-items: center;
-    transition-property: opacity, left;
-    transition-duration: 3s, 5s, 2s, 1s;
 }
 .menu-item {
     display: grid;
     gap: 1rem 2rem;
-    max-width: 16rem;
-    cursor: pointer;
+    max-width: 20rem;
 }
 .photo {
     object-fit: cover;
@@ -69,7 +63,6 @@ h2{
     width: 100%;
     border: 0.25rem solid red;
     display: block;
-    transition: 0.9s;
 }
 .item-info header {
     display: flex;
@@ -89,8 +82,7 @@ h2{
         display: flex;
         flex-wrap: wrap;
         overflow: hidden;
-        transition: 0.9s !important;}
+    }
     .photo {
         height: 150px;
-        transition: 0.9s;
     }
