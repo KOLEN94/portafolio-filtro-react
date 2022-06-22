@@ -4,7 +4,7 @@ Este proyecto se inició con [Create React App](https://github.com/facebook/crea
 
 ## Pagina del proyecto
 
-En el directorio del proyecto, puede ejecutar:
+Para ver esto online hacer click en aqui: [ver pagina](https://kolen94.github.io/portafolio-filtro-react/)
 
 ## Guiones disponibles
 
