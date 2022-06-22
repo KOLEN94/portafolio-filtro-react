@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portafolio-filtro-react/static/css/main.84aa1c66.css",
+    "main.js": "/portafolio-filtro-react/static/js/main.331b4020.js",
+    "index.html": "/portafolio-filtro-react/index.html",
+    "main.84aa1c66.css.map": "/portafolio-filtro-react/static/css/main.84aa1c66.css.map",
+    "main.331b4020.js.map": "/portafolio-filtro-react/static/js/main.331b4020.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84aa1c66.css",
+    "static/js/main.331b4020.js"
+  ]
+}
